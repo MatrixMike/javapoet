@@ -1,0 +1,3 @@
+It looks really quite useful but the actions that I have to take to have it operate on my computer are unclear. I tried running the hidden file .buildscript but that gave errors. 
+There seems to be some hidden beauty here and I would like to expose it.
+
